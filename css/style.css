@@ -1,0 +1,27 @@
+@font-face {
+
+    font-family: FontName;
+    
+    src: url(FontLocationOnServer);
+    
+    }
+    h1{ font-size: 30px;
+        color: rgb(121, 12, 43);
+        background-color: antiquewhite;
+    }
+    p{
+        background-color: rgb(160, 170, 172);
+        font-size: 20px;
+        color: rgb(121, 12, 43);
+    }
+    strong{
+        color: blue;
+        font-style: italic;
+        font-weight: lighter;
+    }
+    em{
+        font-weight: bold;
+    }
+    img{
+        border-radius: 4%;
+    }
